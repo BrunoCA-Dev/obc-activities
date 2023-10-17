@@ -15,6 +15,7 @@ do {
                 break
         default:
             alert ("Wrong option, dont forget to use Upper case")
-}} while (menu!=="Exit")
+}
+} while (menu!=="Exit")
 
 alert ("Okay, bye bye")
