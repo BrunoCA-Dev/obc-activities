@@ -9,7 +9,7 @@ do {
     }
 
     option = prompt (
-        "Queued Champions :\n" + 
+        "Queued Champions :\n\n" + 
         lobby +  
         "Choose your action:\n" + 
         "Option 1 - Move the queue\n" +
@@ -18,16 +18,16 @@ do {
     )
     switch (option){
         case "1":
-            queue.shift()
-            break
+           queue.shift()
+           break
         case "2":
            const champion = prompt("What is the champion name?")
            queue.push(champion)
            break
         case "3":
-           prompt("Queue finished!")
+           alert("Queue finished!")
            break
         default:
             ("Wrong option")}
-} while (option !==3)
+} while (option !=="3")
 alert ("Bye bye")
