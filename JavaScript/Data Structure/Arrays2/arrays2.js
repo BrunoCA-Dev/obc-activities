@@ -37,6 +37,6 @@ const society = hobbits.concat("Boromir")
 console.log(society)
 
 // SPLICE - Substitute of elements
-const removedElements = society.splice(index, 1, "Gandalf, my boy")
+const removedElements = society.splice(index, 1, "Yasuo")
 console.log(society)
 console.log(removedElements)
