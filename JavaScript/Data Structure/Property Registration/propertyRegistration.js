@@ -35,7 +35,7 @@ do {
         case "2":
             alert (
                 "Properties registered:\n\n " +
-                properties 
+                properties
             )
         break
         case "3":
