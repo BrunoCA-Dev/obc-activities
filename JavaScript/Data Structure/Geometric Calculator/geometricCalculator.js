@@ -77,3 +77,5 @@ do {
 } while (option!=="6")
 
 alert("Finishing the application")
+
+//finito
