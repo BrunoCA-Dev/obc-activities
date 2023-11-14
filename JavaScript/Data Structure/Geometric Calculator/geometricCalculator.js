@@ -76,6 +76,8 @@ do {
 
 } while (option!=="6")
 
-alert("Finishing the application")
+alert("Application under revise")
 
 //finito charge
+
+// get post @ patch 192.168.199.60 
