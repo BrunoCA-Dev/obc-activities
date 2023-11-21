@@ -1,10 +1,13 @@
+//Array that stores the job positions
 const JobPositionArray = []
 
-function listJobPosition (){
+//
+function jobList (){
 
 }
 
-function newJobPosition (){
+//Function that creates a new job position as an object and adds it to the jobPosition array
+function jobNew (){
     let newJob = {}
     newJob.name = prompt("Job name")
     newJob.description = prompt("Job description")
@@ -18,20 +21,37 @@ function newJobPosition (){
     ) == true) {
         JobPositionArray.push(newJob)
     } else {
-        alert ("Operation canceled")
+        alert ("Operation Canceled")
     }
 }
 
-function viewJobPosition (){
+function jobView (){
 
 }
 
-function applyJobPosition (){
-    let index = (i)
+function jobApply (){
+    let indexMessage ="Wich job position do you want to apply:\n\n" 
+    JobPositionArray.forEach((position,index) => {
+        indexMessage += index + "-" + position.name + "\n"
+    })
 
+    let applicant = {}
+    applicant.name = prompt("What is the applicant name?")
+
+    option = prompt (indexMessage)
+
+    let results = parseFloat(option)
+
+    if (confirm(
+        "Job name: " + JobPositionArray[results].name +
+        "\nApplicant: " + applicant.name
+    ) == true) {
+        JobPositionArray[results].applicant = applicant
+    } else {
+        alert("Application canceled")
+    }
 }
-
-function deleteJobPosition (){
+function jobDelete (){
 
 }
 
@@ -40,7 +60,7 @@ do {
     option = ""
     option = prompt (
         "Chose an option: " + 
-        "\n1) Show all job offers" +
+        "\n\n1) Show all job offers" +
         "\n2) Add a new job offer" +
         "\n3) Check a job offer" +
         "\n4) Add a candidate to a job offer" +
@@ -50,7 +70,12 @@ do {
 
     switch(option){
         case("2"):
-        newJobPosition ()
+        jobNew ()
+        break
+    }
+    switch(option){
+        case("4"):
+        jobApply ()
         break
     }
   

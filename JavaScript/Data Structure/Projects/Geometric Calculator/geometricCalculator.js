@@ -73,7 +73,6 @@ do {
         default: alert("Wrong option")
 
     }
-
 } while (option!=="6")
 
 alert("Application under revise")
