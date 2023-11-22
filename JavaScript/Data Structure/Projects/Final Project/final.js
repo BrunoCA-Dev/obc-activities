@@ -80,3 +80,5 @@ do {
     }
   
 } while (option !=="6")
+
+//aditional status by default
