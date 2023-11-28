@@ -1,7 +1,15 @@
 //Array that stores the job positions
-const JobPositionArray = []
+const jobsPosition = []
 
 //
+function index (){
+    let indexMessage ="Wich job position do you want to select?\n\n" 
+    jobsPosition.forEach((position,index) => {
+        indexMessage += index + "-" + position.name + "\n"
+    })
+    return prompt (indexMessage)
+}
+
 function jobList (){
 
 }
@@ -19,7 +27,7 @@ function jobNew (){
         "\nJob limit date: " + newJob.limit + 
         "\n\nDo you confirm the job informations?"
     ) == true) {
-        JobPositionArray.push(newJob)
+        jobsPosition.push(newJob)
     } else {
         alert ("Operation Canceled")
     }
@@ -30,23 +38,16 @@ function jobView (){
 }
 
 function jobApply (){
-    let indexMessage ="Wich job position do you want to apply:\n\n" 
-    JobPositionArray.forEach((position,index) => {
-        indexMessage += index + "-" + position.name + "\n"
-    })
+    let option = index()
 
     let applicant = {}
     applicant.name = prompt("What is the applicant name?")
 
-    option = prompt (indexMessage)
-
-    let results = parseFloat(option)
-
     if (confirm(
-        "Job name: " + JobPositionArray[results].name +
+        "Job name: " + jobsPosition[option].name +
         "\nApplicant: " + applicant.name
     ) == true) {
-        JobPositionArray[results].applicant = applicant
+        jobsPosition[option].applicant = applicant
     } else {
         alert("Application canceled")
     }
@@ -81,4 +82,4 @@ do {
   
 } while (option !=="6")
 
-//aditional status by default
+//aditional status by default at index
