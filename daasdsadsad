@@ -1,0 +1,45 @@
+[33m11b5326[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: Added coments
+[33m866b54f[m HEAD@{1}: commit: Added an index shortcut
+[33mc4f1c2e[m HEAD@{2}: commit: Added jobApply function
+[33m077d8d7[m HEAD@{3}: commit: Added the jobApply function
+[33m70d143b[m HEAD@{4}: commit: Last activity update 0.1
+[33mef0a090[m HEAD@{5}: commit: Final project first main
+[33m6d350c7[m HEAD@{6}: commit: Map, filter and reduce high order functions
+[33m73b6b8b[m HEAD@{7}: commit: High order functions activity
+[33mf98bcb2[m HEAD@{8}: commit: Created subfolders to maintain the Js activities and projects organized
+[33mdd02a01[m HEAD@{9}: commit: Anonymous function activity
+[33mba1832b[m HEAD@{10}: commit: Functions and Recursive Functions activity
+[33m0a16958[m HEAD@{11}: commit: Property hotfix
+[33m2732d75[m HEAD@{12}: commit: Dns hotfix at geometric calculator
+[33m4c14dac[m HEAD@{13}: commit: hotfix on comments
+[33m4ebdd67[m HEAD@{14}: commit: Geometric calculator: Calculate the area of different geometric shapes
+[33mcff219a[m HEAD@{15}: commit: Functions and functions return activity
+[33m1cc03f7[m HEAD@{16}: commit: Functions explication
+[33m5a743e2[m HEAD@{17}: commit: Property Registration bug fix, fixed an error preventing the program to return the values when selecting option 2
+[33m904e233[m HEAD@{18}: commit: Properties registration activity, program that register properties using arrays and objects concept
+[33m263aa79[m HEAD@{19}: commit: Objects and Array activity
+[33maaf6f58[m HEAD@{20}: commit: Objects activity
+[33m29deb36[m HEAD@{21}: commit: Multidimensional arrays
+[33mca4c571[m HEAD@{22}: commit: Program where you can add and remove cards from a deck
+[33mdc56b04[m HEAD@{23}: commit: Queue activity where you can add and remove champions from a queue
+[33mc0aa52a[m HEAD@{24}: commit: Data structure #2
+[33m9c858e8[m HEAD@{25}: commit: Data structure first activity - Arrays
+[33mc902ddd[m HEAD@{26}: commit: Program that check if a word is a palindrome or not
+[33mf24b583[m HEAD@{27}: commit: Fixed some bugs on a for loop
+[33m7c9894f[m HEAD@{28}: commit: Multiplication table program where you can type a number and the program shows you the entire multiplication table till 20
+[33m6d3101c[m HEAD@{29}: commit: For structure activity
+[33mfbb358a[m HEAD@{30}: commit: Bank operation where you can type how much money do you have then you can withdraw or remove any amount you want
+[33m5e7a5e7[m HEAD@{31}: commit: It runs a menu that let you choose between some options and it keeps looping while you dont hit the Exit option
+[33mc501d8c[m HEAD@{32}: commit: Do While example
+[33m3c0a63e[m HEAD@{33}: commit: While structure activity - Program that asks for information, count and index it at the end
+[33m9af061e[m HEAD@{34}: commit: While structure example
+[33m6c0e523[m HEAD@{35}: commit: Measure converter activity where you can choose to convert meters into other measures
+[33mc11e965[m HEAD@{36}: commit: Reestructure of the folders for a better experience
+[33m58d9fe7[m HEAD@{37}: commit: Combat system activity were you can select a attacker, defender, their status and see the results of the battle
+[33m08154c4[m HEAD@{38}: commit: Car racing test were you can input two cars with diferent speeds and it shows you who would win the race based on their speed or it shows you that its a draw if they have the same speed
+[33m0608b82[m HEAD@{39}: commit: Age verification activity resolve
+[33m5e6f283[m HEAD@{40}: commit: Calculator activity
+[33m64b1ac1[m HEAD@{41}: commit: Changed document title from 'register' to 'student register'
+[33m7789533[m HEAD@{42}: commit: Student registration activity
+[33mb536efd[m HEAD@{43}: Branch: renamed refs/heads/master to refs/heads/main
+[33mb536efd[m HEAD@{45}: commit (initial): first commit
