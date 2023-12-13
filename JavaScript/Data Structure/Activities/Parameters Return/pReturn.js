@@ -25,9 +25,9 @@ console.log(notebook)
 //    return base * hight // Return direct on the console
 //}
 
-//console.log(retangularArea(10,10))
+//console.log(retangularArea(10,10)) 
 
-///////////////////////////////////////////////////
+////////////////////////////////////////////////////
 
 function retangularArea(base, hight){
        return base * hight
