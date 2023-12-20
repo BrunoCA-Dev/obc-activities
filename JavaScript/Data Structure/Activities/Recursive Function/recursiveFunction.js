@@ -8,7 +8,7 @@ function divide(num) {
     }
 }
 
-// Caution, always configure a breakpoint or condition otherwise the function can run trought a infinite loop
+// Caution, always configure a breakpoint or condition otherwise the function can run trought a infinite l00p
 divide(40)
 
 function double(num) {
