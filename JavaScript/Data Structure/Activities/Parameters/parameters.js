@@ -27,7 +27,7 @@ function createUser (name, email, password, type) {
     console.log(user)
 }
 
-//createUser ("bruno", "bruno.araujo4454@gmail.com", "123456", "admin")
+//createUser ("bruno", "bruno.araujo4454@gmail.com", "123456", "admin").
 
 function newUser (name, type ="admin", email, password) { // The order of parameters mattersm default parameters should allways be at the end
     const user = {
