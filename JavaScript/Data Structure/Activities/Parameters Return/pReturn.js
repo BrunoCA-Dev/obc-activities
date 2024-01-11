@@ -45,7 +45,7 @@ console.log(squareArea(9))
 
 function hello(){
     let text = "..."
-    return text // return always finish the function, leaving everything after the return unusable
+    return text // return always finish the function, leaving everything after the return unusables
     text = "Hello, World!"
     console.log(text)
 }
