@@ -49,7 +49,7 @@ function jobApply (){
     ) == true) {
         jobsPosition[option].applicant = applicant
     } else {
-        alert("Application canceled")
+        alert("Application canceled?")
     }
 }
 function jobDelete (){
