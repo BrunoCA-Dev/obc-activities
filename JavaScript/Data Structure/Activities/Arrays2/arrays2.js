@@ -19,7 +19,7 @@ lastElement = arr.shift()
 console.log(arr)
 console.log(lastElement)
 
-// INCLUDES - SEARCH for an element on the array
+// INCLUDES - SEARCH for on element on the array
 const include = arr.includes("Gandalf")
 console.log(include)
 
