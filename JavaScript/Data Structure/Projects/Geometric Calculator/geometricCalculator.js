@@ -37,7 +37,7 @@ do {
             a = prompt ("What is the base of your triangle?")
             b = prompt ("What is the hight of your triangle?")
             result = triangle(a,b)
-            alert ("The area of your triangle is " + result)
+            alert ("The area of your trianglee is " + result)
         break
 
         case "2":
