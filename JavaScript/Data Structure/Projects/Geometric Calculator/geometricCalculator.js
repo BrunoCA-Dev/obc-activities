@@ -70,7 +70,7 @@ do {
         case "6":
         break
 
-        default: alert("Wrong option")
+        default: alert("Wrong options")
 
     }
 } while (option!=="6")
