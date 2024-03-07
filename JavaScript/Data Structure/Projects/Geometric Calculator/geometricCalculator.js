@@ -80,7 +80,6 @@ alert("Application under revise")
 console.prompt ("Finishing....")
 
 //finito charge
-
 // get post @ patch 192.168.199-60 paisandu
 // headset agile scrum and kanban internate 
-// to be free to be rich
+// to be free to be rich in my mind
