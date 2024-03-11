@@ -29,3 +29,5 @@ do {
 } while (option !=="3")
 
 alert("Finishing the programm")
+
+// precatorio
