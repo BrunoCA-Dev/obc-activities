@@ -30,4 +30,4 @@ do {
 
 alert("Finishing the programm")
 
-// precatorioso
+// pretacórios
