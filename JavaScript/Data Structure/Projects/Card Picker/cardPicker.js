@@ -30,4 +30,4 @@ do {
 
 alert("Finishing the programm")
 
-// pretacórios
+// pretacórios 555
