@@ -22,7 +22,7 @@ console.log(notebook)
 //////////////////////////////////////////////////
 
 //function retangularArea(base, hight){
-//    return base * hight // Return direct on the console
+//    return base * hight // Return direct on the console "Js credentials"
 //}
 
 //console.log(retangularArea(10,10)) (09)
