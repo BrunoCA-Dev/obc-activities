@@ -1,4 +1,4 @@
-//Array that stores the job positions
+//Array that stores the object at the job positions 
 const jobsPosition = []
 
 //
