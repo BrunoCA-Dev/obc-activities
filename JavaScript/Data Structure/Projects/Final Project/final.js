@@ -14,7 +14,7 @@ function jobList (){
 
 }
 
-//Function that creates a new job position as an object and adds it to the jobPosition array's
+//Function that creates a new job position as an object and adds it to the jobPosition array's ray
 function jobNew (){
     let newJob = {}
     newJob.name = prompt("Job name")
