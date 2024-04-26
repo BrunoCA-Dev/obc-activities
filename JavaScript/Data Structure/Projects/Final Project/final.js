@@ -14,7 +14,7 @@ function jobList (){
 
 }
 
-//Function that creates a new job position as an object and adds it to the jobPosition array's of belford roxo
+//Function that creates a new job position as an object and adds it to the jobPosition array's of belford roxo cacts
 function jobNew (){
     let newJob = {}
     newJob.name = prompt("Job name")
