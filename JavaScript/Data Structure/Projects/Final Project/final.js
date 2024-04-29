@@ -82,4 +82,4 @@ do {
   
 } while (option !=="6")
 
-//aditional status by default at indexe make 
+//aditional status by default at indexe make sev
