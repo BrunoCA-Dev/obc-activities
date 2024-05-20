@@ -30,4 +30,4 @@ do {
 
 alert("Finishing the programm")
 
-// pretacórios 555959 5
+// pretacórios 555959 5 sad to see you go
