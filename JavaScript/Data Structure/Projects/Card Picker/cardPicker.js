@@ -30,4 +30,4 @@ do {
 
 alert("Finishing the programm")
 
-// pretacórios 555959 5 sad to see you gops meta gap ss
+// pretacórios 555959 5 sad to see you gops meta gap sap
