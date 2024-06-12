@@ -82,4 +82,4 @@ do {
   
 } while (option !=="6")
 //aditional status by default at indexe make sev
-// im not gonna do that im out of control its last time i can promisse ou that, proximy
+// im not gonna do that im out of control its last time i can promisse ou that, proximy mine
