@@ -53,7 +53,7 @@ const races = characters.reduce(function(acumulativeValue, character) {
 
 console.log(races)
 
-// Sortie's
+// Sortie'z
 
 characters.sort(function(a,b) {
     return a.level - b.level 
