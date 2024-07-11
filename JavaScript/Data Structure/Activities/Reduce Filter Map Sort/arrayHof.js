@@ -35,7 +35,7 @@ const orcs = characters.filter(function(character){
 
 console.log(orcs)
 
-// Reduce = Generate an acumulative value after each interaction then transform everything into a unique array's
+// Reduce = Generate an acumulative value after each interaction then transform everything into a unique array's get punch
 const totalLevel = characters.reduce(function (acumulativeValue, character){
    return acumulativeValue + character.level
 }, 0)
