@@ -1,4 +1,4 @@
-// Objects are created the same way as an array and can be used to dinamicaly store data like other arrays and stuff
+// Objects are created the same way as an array and can be used to dinamicaly store data like other arrays and stuffies
 
 const person = {}
 
