@@ -25,7 +25,7 @@ console.log(notebook)
 //    return base * hight // Return direct on the console "Js credentials"
 //}
 
-//console.log(retangularArea(10,10)) (09)
+//console.log(retangularArea(10,10)) (09) (7874)
 
 ////////////////////////////////////////////////////
 
