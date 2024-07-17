@@ -41,7 +41,7 @@ console.log(retangularArea (5,5))
 
 console.log(squareArea(9))
 
-//////////////////////////////////////////////////// regular function
+//////////////////////////////////////////////////// regular function of faces that come out of the rain
 
 function hello(){
     let text = "..."
